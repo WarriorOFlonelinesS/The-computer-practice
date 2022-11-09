@@ -1,0 +1,1 @@
+For understanding of working the library, you can use the file TEST.js 
