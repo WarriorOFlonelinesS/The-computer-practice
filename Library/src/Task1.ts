@@ -1,9 +1,7 @@
-
 module.exports = function perimeterAndArea(a:number, b:number,c:number){
 // convertation the string to the number
 
 let highBasicOfTrapezium = Number(a);
-
 let lowBasicOfTrapezium = Number(b);
 let BasicsOfTrapezium = Number(c);
 

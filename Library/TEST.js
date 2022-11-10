@@ -1,3 +1,3 @@
-let multiply = require('./Task6');
+let perimetrAndArea = require('./lib/Task10');
 
-multiply(12)
+perimetrAndArea(12,3)
